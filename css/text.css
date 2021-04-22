@@ -1,0 +1,20 @@
+.asgard {
+    margin-left:5rem;
+    margin-top:1rem;
+    margin-bottom: 0.5rem;
+}
+
+.account {
+    margin-left: 5rem;
+    opacity: 0.7;
+}
+
+.textfield {
+    margin-bottom: 1rem;
+    margin-left: 4.5rem;
+    width: 20rem;
+    height: 2rem;
+    border: none;
+    background-color: whitesmoke;
+    box-shadow:0px 1px 10px 5px rgba(1,1,1,0.2);
+}
